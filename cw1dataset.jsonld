@@ -1,0 +1,1024 @@
+# dataset1
+Total Number of Surveys Sent Out
+		
+[
+{
+"Industry": "Mining And Quarrying",
+"Workforce Size < 250": 15,
+"Workforce Size 250 +": 13,
+"Total": 28
+},
+{
+"Industry": "Manufacturing",
+"Workforce Size < 250": 1785,
+"Workforce Size 250 +": 1370,
+"Total": 3155
+},
+{
+"Industry": "Water Supply, Sewerage, Waste Management And Remediation Activities",
+"Workforce Size < 250": 130,
+"Workforce Size 250 +": 71,
+"Total": 201
+},
+{
+"Industry": "Construction",
+"Workforce Size < 250": 722,
+"Workforce Size 250 +": 312,
+"Total": 1034
+},
+{
+"Industry": "Wholesale And Retail Trade; Repair Of Motor Vehicles And Motorcycles",
+"Workforce Size < 250": 1819,
+"Workforce Size 250 +": 1180,
+"Total": 2999
+},
+{
+"Industry": "Accommodation And Food Service Activities",
+"Workforce Size < 250": 975,
+"Workforce Size 250 +": 659,
+"Total": 1634
+},
+{
+"Industry": "Transportation And Storage",
+"Workforce Size < 250": 528,
+"Workforce Size 250 +": 335,
+"Total": 863
+},
+{
+"Industry": "Information And Communication",
+"Workforce Size < 250": 794,
+"Workforce Size 250 +": 422,
+"Total": 1216
+},
+{
+"Industry": "Real Estate Activities",
+"Workforce Size < 250": 112,
+"Workforce Size 250 +": 88,
+"Total": 200
+},
+{
+"Industry": "Professional, Scientific And Technical Activities",
+"Workforce Size < 250": 1303,
+"Workforce Size 250 +": 720,
+"Total": 2023
+},
+{
+"Industry": "Administrative And Support Service Activities",
+"Workforce Size < 250": 1287,
+"Workforce Size 250 +": 1072,
+"Total": 2359
+},
+{
+"Industry": "Education",
+"Workforce Size < 250": 303,
+"Workforce Size 250 +": 457,
+"Total": 760
+},
+{
+"Industry": "Human Health And Social Work Activities",
+"Workforce Size < 250": 145,
+"Workforce Size 250 +": 149,
+"Total": 294
+},
+{
+"Industry": "Arts, Entertainment And Recreation",
+"Workforce Size < 250": 415,
+"Workforce Size 250 +": 303,
+"Total": 718
+},
+{
+"Industry": "Other Service Activities",
+"Workforce Size < 250": 108,
+"Workforce Size 250 +": 29,
+"Total": 137
+},
+{
+"Industry": "All Industries",
+"Workforce Size < 250": 10442,
+"Workforce Size 250 +": 7181,
+"Total": 17623
+}
+]
+
+# dataset2
+Total Number of Surveys Sent Out
+		
+[
+{
+"Industry": "All Industries",
+"Workforce Size 0 - 99": 1326,
+"Workforce Size 100 - 249": 9116,
+"Workforce Size 250 +": 7181,
+"Total": 17623
+}
+]
+
+
+# dataset3
+Number of Responses	
+	
+[
+{
+"Industry": "Manufacturing",
+"Workforce Size < 250": 648,
+"Workforce Size 250 +": 449,
+"Total": 1097
+},
+{
+"Industry": "Water Supply, Sewerage, Waste Management And Remediation Activities",
+"Workforce Size < 250": 50,
+"Workforce Size 250 +": 20,
+"Total": 70
+},
+{
+"Industry": "Construction",
+"Workforce Size < 250": 208,
+"Workforce Size 250 +": 76,
+"Total": 284
+},
+{
+"Industry": "Wholesale And Retail Trade; Repair Of Motor Vehicles And Motorcycles",
+"Workforce Size < 250": 686,
+"Workforce Size 250 +": 344,
+"Total": 1030
+},
+{
+"Industry": "Accommodation And Food Service Activities",
+"Workforce Size < 250": 321,
+"Workforce Size 250 +": 195,
+"Total": 516
+},
+{
+"Industry": "Transportation And Storage",
+"Workforce Size < 250": 193,
+"Workforce Size 250 +": 89,
+"Total": 282
+},
+{
+"Industry": "Information And Communication",
+"Workforce Size < 250": 297,
+"Workforce Size 250 +": 121,
+"Total": 418
+},
+{
+"Industry": "Professional, Scientific And Technical Activities",
+"Workforce Size < 250": 468,
+"Workforce Size 250 +": 265,
+"Total": 733
+},
+{
+"Industry": "Administrative And Support Service Activities",
+"Workforce Size < 250": 453,
+"Workforce Size 250 +": 361,
+"Total": 814
+},
+{
+"Industry": "Education",
+"Workforce Size < 250": 127,
+"Workforce Size 250 +": 191,
+"Total": 318
+},
+{
+"Industry": "Human Health And Social Work Activities",
+"Workforce Size < 250": 85,
+"Workforce Size 250 +": 59,
+"Total": 144
+},
+{
+"Industry": "Arts, Entertainment And Recreation",
+"Workforce Size < 250": 180,
+"Workforce Size 250 +": 98,
+"Total": 278
+},
+{
+"Industry": "All Industries",
+"Workforce Size < 250": 3809,
+"Workforce Size 250 +": 2305,
+"Total": 6114
+}
+]
+
+# dataset4
+Number of Responses		
+
+[
+{
+"Industry": "All Industries",
+"Workforce Size 0 - 99": 357,
+"Workforce Size 100 - 249": 3452,
+"Workforce Size 250 +": 2305,
+"Total": 6114
+}
+]
+
+# dataset5
+Proportion of Responses		
+
+[
+{
+"Industry": "Manufacturing",
+"Workforce Size < 250": 0.363,
+"Workforce Size 250 +": 0.328,
+"Total": 0.348
+},
+{
+"Industry": "Water Supply, Sewerage, Waste Management And Remediation Activities",
+"Workforce Size < 250": 0.385,
+"Workforce Size 250 +": 0.282,
+"Total": 0.348
+},
+{
+"Industry": "Construction",
+"Workforce Size < 250": 0.288,
+"Workforce Size 250 +": 0.244,
+"Total": 0.275
+},
+{
+"Industry": "Wholesale And Retail Trade; Repair Of Motor Vehicles And Motorcycles",
+"Workforce Size < 250": 0.377,
+"Workforce Size 250 +": 0.292,
+"Total": 0.343
+},
+{
+"Industry": "Accommodation And Food Service Activities",
+"Workforce Size < 250": 0.329,
+"Workforce Size 250 +": 0.296,
+"Total": 0.316
+},
+{
+"Industry": "Transportation And Storage",
+"Workforce Size < 250": 0.366,
+"Workforce Size 250 +": 0.266,
+"Total": 0.327
+},
+{
+"Industry": "Information And Communication",
+"Workforce Size < 250": 0.374,
+"Workforce Size 250 +": 0.287,
+"Total": 0.344
+},
+{
+"Industry": "Professional, Scientific And Technical Activities",
+"Workforce Size < 250": 0.359,
+"Workforce Size 250 +": 0.368,
+"Total": 0.362
+},
+{
+"Industry": "Administrative And Support Service Activities",
+"Workforce Size < 250": 0.352,
+"Workforce Size 250 +": 0.337,
+"Total": 0.345
+},
+{
+"Industry": "Education",
+"Workforce Size < 250": 0.419,
+"Workforce Size 250 +": 0.418,
+"Total": 0.418
+},
+{
+"Industry": "Human Health And Social Work Activities",
+"Workforce Size < 250": 0.586,
+"Workforce Size 250 +": 0.396,
+"Total": 0.49
+},
+{
+"Industry": "Arts, Entertainment And Recreation",
+"Workforce Size < 250": 0.434,
+"Workforce Size 250 +": 0.323,
+"Total": 0.387
+},
+{
+"Industry": "All Industries",
+"Workforce Size < 250": 0.365,
+"Workforce Size 250 +": 0.321,
+"Total": 0.347
+}
+]
+
+# dataset6
+Proportion of Responses		
+
+[
+{
+"Industry": "All Industries",
+"Workforce Size 0 - 99": 0.269,
+"Workforce Size 100 - 249": 0.379,
+"Workforce Size 250 +": 0.321,
+"Total": 0.347
+}
+]
+
+# dataset7
+Percentage of all responding businesses, broken down by industry, UK, 6 April to 19 April 2020
+
+[
+{
+"Industry": "Manufacturing",
+"Continuing to trade": 0.79,
+"Has permanently ceased trading **": 0,
+"Has temporarily closed or temporarily paused trading": 0.206
+},
+{
+"Industry": "Water Supply, Sewerage, Waste Management And Remediation Activities",
+"Continuing to trade": 0.9,
+"Has permanently ceased trading **": 0,
+"Has temporarily closed or temporarily paused trading": 0.1
+},
+{
+"Industry": "Construction",
+"Continuing to trade": 0.732,
+"Has permanently ceased trading **": 0,
+"Has temporarily closed or temporarily paused trading": 0.261
+},
+{
+"Industry": "Wholesale And Retail Trade; Repair Of Motor Vehicles And Motorcycles",
+"Continuing to trade": 0.752,
+"Has permanently ceased trading **": 0,
+"Has temporarily closed or temporarily paused trading": 0.243
+},
+{
+"Industry": "Accommodation And Food Service Activities",
+"Continuing to trade": 0.182,
+"Has permanently ceased trading **": 0.012,
+"Has temporarily closed or temporarily paused trading": 0.806
+},
+{
+"Industry": "Transportation And Storage",
+"Continuing to trade": 0.915,
+"Has permanently ceased trading **": 0,
+"Has temporarily closed or temporarily paused trading": 0.085
+},
+{
+"Industry": "Information And Communication",
+"Continuing to trade": 0.95,
+"Has permanently ceased trading **": 0,
+"Has temporarily closed or temporarily paused trading": 0.0451232
+},
+{
+"Industry": "Professional, Scientific And Technical Activities",
+"Continuing to trade": 0.967,
+"Has permanently ceased trading **": 0,
+"Has temporarily closed or temporarily paused trading": 0.03
+},
+{
+"Industry": "Administrative And Support Service Activities",
+"Continuing to trade": 0.915,
+"Has permanently ceased trading **": 0,
+"Has temporarily closed or temporarily paused trading": 0.081
+},
+{
+"Industry": "Education",
+"Continuing to trade": 0.868,
+"Has permanently ceased trading **": 0,
+"Has temporarily closed or temporarily paused trading": 0.126
+},
+{
+"Industry": "Human Health And Social Work Activities",
+"Continuing to trade": 0.938,
+"Has permanently ceased trading **": 0.014,
+"Has temporarily closed or temporarily paused trading": 0.049
+},
+{
+"Industry": "Arts, Entertainment And Recreation",
+"Continuing to trade": 0.205,
+"Has permanently ceased trading **": 0,
+"Has temporarily closed or temporarily paused trading": 0.795
+},
+{
+"Industry": "All Industries",
+"Continuing to trade": 0.767,
+"Has permanently ceased trading **": 0,
+"Has temporarily closed or temporarily paused trading": 0.228
+}
+]
+
+# dataset8
+Percentage of all responding businesses, broken down by country, UK, 6 April to 19 April 2020
+
+[
+{
+"Country": "England",
+"Continuing to trade": 0.778,
+"Has permanently ceased trading **": 0,
+"Has temporarily closed or temporarily paused trading": 0.218
+},
+{
+"Country": "Wales",
+"Continuing to trade": 0.762,
+"Has permanently ceased trading **": 0.011,
+"Has temporarily closed or temporarily paused trading": 0.227
+},
+{
+"Country": "Scotland",
+"Continuing to trade": 0.776,
+"Has permanently ceased trading **": 0,
+"Has temporarily closed or temporarily paused trading": 0.217
+},
+{
+"Country": "Northern Ireland",
+"Continuing to trade": 0.728,
+"Has permanently ceased trading **": 0,
+"Has temporarily closed or temporarily paused trading": 0.272
+},
+{
+"Country": "UK",
+"Continuing to trade": 0.767,
+"Has permanently ceased trading **": 0,
+"Has temporarily closed or temporarily paused trading": 0.228
+}
+]
+
+# dataset9
+Percentage of all responding businesses, broken down by size band, UK, 6 April to 19 April 2020
+
+[
+{
+"Workforce Size": " < 250 ",
+"Continuing to trade": 0.748,
+"Has permanently ceased trading **": 0,
+"Has temporarily closed or temporarily paused trading": 0.247
+},
+{
+"Workforce Size": " 250 +",
+"Continuing to trade": 0.798,
+"Has permanently ceased trading **": 0,
+"Has temporarily closed or temporarily paused trading": 0.197
+},
+{
+"Workforce Size": "All Size Bands",
+"Continuing to trade": 0.767,
+"Has permanently ceased trading **": 0,
+"Has temporarily closed or temporarily paused trading": 0.228
+}
+]
+
+# dataset10
+Percentage of businesses either continuing to trade or who have temporarily paused or ceased trading, broken down by industry, UK, 6 April to 19 April 2020
+
+[
+{
+"Industry": "Manufacturing",
+"Coronavirus Job Retention Scheme": 0.635,
+"Business rates holiday": 0.14,
+"Deferring VAT payments": 0.443,
+"HMRC Time To Pay scheme": 0.193,
+"Government-funded small business grant or loan schemes": 0.048,
+"Accredited finance agreements": 0.086,
+"We have not applied for any of these initiatives": 0.26
+},
+{
+"Industry": "Water Supply, Sewerage, Waste Management And Remediation Activities",
+"Coronavirus Job Retention Scheme": 0.686,
+"Business rates holiday": 0.157,
+"Deferring VAT payments": 0.571,
+"HMRC Time To Pay scheme": 0.214,
+"Government-funded small business grant or loan schemes": 0.057,
+"Accredited finance agreements": 0.1,
+"We have not applied for any of these initiatives": 0.214
+},
+{
+"Industry": "Construction",
+"Coronavirus Job Retention Scheme": 0.809,
+"Business rates holiday": 0.135,
+"Deferring VAT payments": 0.599,
+"HMRC Time To Pay scheme": 0.287,
+"Government-funded small business grant or loan schemes": 0.06,
+"Accredited finance agreements": 0.096,
+"We have not applied for any of these initiatives": 0.117
+},
+{
+"Industry": "Wholesale And Retail Trade; Repair Of Motor Vehicles And Motorcycles",
+"Coronavirus Job Retention Scheme": 0.726,
+"Business rates holiday": 0.446,
+"Deferring VAT payments": 0.601,
+"HMRC Time To Pay scheme": 0.25,
+"Government-funded small business grant or loan schemes": 0.133,
+"Accredited finance agreements": 0.09,
+"We have not applied for any of these initiatives": 0.155
+},
+{
+"Industry": "Accommodation And Food Service Activities",
+"Coronavirus Job Retention Scheme": 0.871,
+"Business rates holiday": 0.782,
+"Deferring VAT payments": 0.806,
+"HMRC Time To Pay scheme": 0.422,
+"Government-funded small business grant or loan schemes": 0.249,
+"Accredited finance agreements": 0.206,
+"We have not applied for any of these initiatives": 0.027
+},
+{
+"Industry": "Transportation And Storage",
+"Coronavirus Job Retention Scheme": 0.766,
+"Business rates holiday": 0.241,
+"Deferring VAT payments": 0.553,
+"HMRC Time To Pay scheme": 0.248,
+"Government-funded small business grant or loan schemes": 0.064,
+"Accredited finance agreements": 0.092,
+"We have not applied for any of these initiatives": 0.167
+},
+{
+"Industry": "Information And Communication",
+"Coronavirus Job Retention Scheme": 0.401,
+"Business rates holiday": 0.082,
+"Deferring VAT payments": 0.474,
+"HMRC Time To Pay scheme": 0.137,
+"Government-funded small business grant or loan schemes": 0.036,
+"Accredited finance agreements": 0.038,
+"We have not applied for any of these initiatives": 0.373
+},
+{
+"Industry": "Professional, Scientific And Technical Activities",
+"Coronavirus Job Retention Scheme": 0.622,
+"Business rates holiday": 0.126,
+"Deferring VAT payments": 0.662,
+"HMRC Time To Pay scheme": 0.186,
+"Government-funded small business grant or loan schemes": 0.049,
+"Accredited finance agreements": 0.081,
+"We have not applied for any of these initiatives": 0.207
+},
+{
+"Industry": "Administrative And Support Service Activities",
+"Coronavirus Job Retention Scheme": 0.757,
+"Business rates holiday": 0.201,
+"Deferring VAT payments": 0.637,
+"HMRC Time To Pay scheme": 0.205,
+"Government-funded small business grant or loan schemes": 0.218,
+"Accredited finance agreements": 0.123,
+"We have not applied for any of these initiatives": 0.139
+},
+{
+"Industry": "Education",
+"Coronavirus Job Retention Scheme": 0.405,
+"Business rates holiday": 0.085,
+"Deferring VAT payments": 0.263,
+"HMRC Time To Pay scheme": 0.07,
+"Government-funded small business grant or loan schemes": 0.022,
+"Accredited finance agreements": 0.028,
+"We have not applied for any of these initiatives": 0.484
+},
+{
+"Industry": "Human Health And Social Work Activities",
+"Coronavirus Job Retention Scheme": 0.345,
+"Business rates holiday": 0.134,
+"Deferring VAT payments": 0.162,
+"HMRC Time To Pay scheme": 0.063,
+"Government-funded small business grant or loan schemes": 0.106,
+"Accredited finance agreements": 0.028,
+"We have not applied for any of these initiatives": 0.556
+},
+{
+"Industry": "Arts, Entertainment And Recreation",
+"Coronavirus Job Retention Scheme": 0.763,
+"Business rates holiday": 0.572,
+"Deferring VAT payments": 0.612,
+"HMRC Time To Pay scheme": 0.331,
+"Government-funded small business grant or loan schemes": 0.18,
+"Accredited finance agreements": 0.183,
+"We have not applied for any of these initiatives": 0.126
+},
+{
+"Industry": "All Industries",
+"Coronavirus Job Retention Scheme": 0.672,
+"Business rates holiday": 0.274,
+"Deferring VAT payments": 0.564,
+"HMRC Time To Pay scheme": 0.223,
+"Government-funded small business grant or loan schemes": 0.112,
+"Accredited finance agreements": 0.099,
+"We have not applied for any of these initiatives": 0.207
+}
+]
+
+# dataset11
+Percentage of businesses either continuing to trade or who have temporarily paused or ceased trading, broken down by size band, UK, 6 April to 19 April 2020
+[
+{
+"Workforce Size": "< 250",
+"Coronavirus Job Retention Scheme": 0.687,
+"Business rates holiday": 0.272,
+"Deferring VAT payments": 0.56,
+"HMRC Time To Pay scheme": 0.224,
+"Government-funded small business grant or loan schemes": 0.135,
+"Accredited finance agreements": 0.112,
+"We have not applied for any of these initiatives": 0.198
+},
+{
+"Workforce Size": "250 +",
+"Coronavirus Job Retention Scheme": 0.647,
+"Business rates holiday": 0.279,
+"Deferring VAT payments": 0.571,
+"HMRC Time To Pay scheme": 0.222,
+"Government-funded small business grant or loan schemes": 0.073123,
+"Accredited finance agreements": 0.079,
+"We have not applied for any of these initiatives": 0.223
+},
+{
+"Workforce Size": "All Size Bands",
+"Coronavirus Job Retention Scheme": 0.672,
+"Business rates holiday": 0.274,
+"Deferring VAT payments": 0.564,
+"HMRC Time To Pay scheme": 0.223,
+"Government-funded small business grant or loan schemes": 0.112,
+"Accredited finance agreements": 0.099,
+"We have not applied for any of these initiatives": 0.207
+}
+]
+
+# dataset12
+Percentage of businesses either continuing to trade or who have temporarily paused or ceased trading, broken down by country, UK, 6 April to 19 April 2020
+
+[
+{
+"Country": "England",
+"Coronavirus Job Retention Scheme": 0.673,
+"Business rates holiday": 0.274,
+"Deferring VAT payments": 0.573,
+"HMRC Time To Pay scheme": 0.224,
+"Government-funded small business grant or loan schemes": 0.109,
+"Accredited finance agreements": 0.097,
+"We have not applied for any of these initiatives": 0.205
+},
+{
+"Country": "Wales",
+"Coronavirus Job Retention Scheme": 0.738,
+"Business rates holiday": 0.387,
+"Deferring VAT payments": 0.651,
+"HMRC Time To Pay scheme": 0.255,
+"Government-funded small business grant or loan schemes": 0.137,
+"Accredited finance agreements": 0.127,
+"We have not applied for any of these initiatives": 0.134
+},
+{
+"Country": "Scotland",
+"Coronavirus Job Retention Scheme": 0.717,
+"Business rates holiday": 0.29,
+"Deferring VAT payments": 0.63,
+"HMRC Time To Pay scheme": 0.235,
+"Government-funded small business grant or loan schemes": 0.075,
+"Accredited finance agreements": 0.098,
+"We have not applied for any of these initiatives": 0.165
+},
+{
+"Country": "Northern Ireland",
+"Coronavirus Job Retention Scheme": 0.652,
+"Business rates holiday": 0.304,
+"Deferring VAT payments": 0.402,
+"HMRC Time To Pay scheme": 0.13,
+"Government-funded small business grant or loan schemes": 0.109,
+"Accredited finance agreements": 0.065,
+"We have not applied for any of these initiatives": 0.239
+},
+{
+"Country": "UK",
+"Coronavirus Job Retention Scheme": 0.672,
+"Business rates holiday": 0.274,
+"Deferring VAT payments": 0.564,
+"HMRC Time To Pay scheme": 0.223,
+"Government-funded small business grant or loan schemes": 0.112,
+"Accredited finance agreements": 0.099,
+"We have not applied for any of these initiatives": 0.207
+}
+]
+
+# dataset13
+Percentage of businesses either continuing to trade or who have temporarily paused or ceased trading, broken down by industry, UK, 6 April to 19 April 2020
+
+[
+{
+"Industry": "Manufacturing",
+"Coronavirus Job Retention Scheme": 0.199,
+"Business rates holiday": 0.079,
+"Deferring VAT payments": 0.33,
+"HMRC Time To Pay scheme": 0.147,
+"Government-funded small business grant or loan schemes": 0.026,
+"Accredited finance agreements": 0.013,
+"We haven't received any that we applied for": 0.237
+},
+{
+"Industry": "Water Supply, Sewerage, Waste Management And Remediation Activities",
+"Coronavirus Job Retention Scheme": 0.286,
+"Business rates holiday": 0.043,
+"Deferring VAT payments": 0.371,
+"HMRC Time To Pay scheme": 0.157,
+"Government-funded small business grant or loan schemes": 0.014,
+"Accredited finance agreements": 0.043,
+"We haven't received any that we applied for": 0.243
+},
+{
+"Industry": "Construction",
+"Coronavirus Job Retention Scheme": 0.291,
+"Business rates holiday": 0.057,
+"Deferring VAT payments": 0.443,
+"HMRC Time To Pay scheme": 0.234,
+"Government-funded small business grant or loan schemes": 0.021,
+"Accredited finance agreements": 0.018,
+"We haven't received any that we applied for": 0.27
+},
+{
+"Industry": "Wholesale And Retail Trade; Repair Of Motor Vehicles And Motorcycles",
+"Coronavirus Job Retention Scheme": 0.239,
+"Business rates holiday": 0.334,
+"Deferring VAT payments": 0.469,
+"HMRC Time To Pay scheme": 0.183,
+"Government-funded small business grant or loan schemes": 0.091,
+"Accredited finance agreements": 0.015,
+"We haven't received any that we applied for": 0.16
+},
+{
+"Industry": "Accommodation And Food Service Activities",
+"Coronavirus Job Retention Scheme": 0.251,
+"Business rates holiday": 0.633,
+"Deferring VAT payments": 0.596,
+"HMRC Time To Pay scheme": 0.306,
+"Government-funded small business grant or loan schemes": 0.178,
+"Accredited finance agreements": 0.035,
+"We haven't received any that we applied for": 0.129
+},
+{
+"Industry": "Transportation And Storage",
+"Coronavirus Job Retention Scheme": 0.287,
+"Business rates holiday": 0.145,
+"Deferring VAT payments": 0.44,
+"HMRC Time To Pay scheme": 0.188,
+"Government-funded small business grant or loan schemes": 0.025,
+"Accredited finance agreements": 0.025,
+"We haven't received any that we applied for": 0.184
+},
+{
+"Industry": "Information And Communication",
+"Coronavirus Job Retention Scheme": 0.154,
+"Business rates holiday": 0.031,
+"Deferring VAT payments": 0.397,
+"HMRC Time To Pay scheme": 0.106,
+"Government-funded small business grant or loan schemes": 0.017,
+"Accredited finance agreements": 0.01,
+"We haven't received any that we applied for": 0.127
+},
+{
+"Industry": "Professional, Scientific And Technical Activities",
+"Coronavirus Job Retention Scheme": 0.216,
+"Business rates holiday": 0.078,
+"Deferring VAT payments": 0.518,
+"HMRC Time To Pay scheme": 0.146,
+"Government-funded small business grant or loan schemes": 0.022,
+"Accredited finance agreements": 0.023,
+"We haven't received any that we applied for": 0.176
+},
+{
+"Industry": "Administrative And Support Service Activities",
+"Coronavirus Job Retention Scheme": 0.28,
+"Business rates holiday": 0.12,
+"Deferring VAT payments": 0.469,
+"HMRC Time To Pay scheme": 0.147,
+"Government-funded small business grant or loan schemes": 0.144,
+"Accredited finance agreements": 0.017,
+"We haven't received any that we applied for": 0.206
+},
+{
+"Industry": "Education",
+"Coronavirus Job Retention Scheme": 0.098,
+"Business rates holiday": 0.038,
+"Deferring VAT payments": 0.184,
+"HMRC Time To Pay scheme": 0.057,
+"Government-funded small business grant or loan schemes": 0,
+"Accredited finance agreements": 0,
+"We haven't received any that we applied for": 0.228
+},
+{
+"Industry": "Human Health And Social Work Activities",
+"Coronavirus Job Retention Scheme": 0.085,
+"Business rates holiday": 0.092,
+"Deferring VAT payments": 0.155,
+"HMRC Time To Pay scheme": 0.042,
+"Government-funded small business grant or loan schemes": 0.07,
+"Accredited finance agreements": 0,
+"We haven't received any that we applied for": 0.141
+},
+{
+"Industry": "Arts, Entertainment And Recreation",
+"Coronavirus Job Retention Scheme": 0.219,
+"Business rates holiday": 0.45,
+"Deferring VAT payments": 0.435,
+"HMRC Time To Pay scheme": 0.255,
+"Government-funded small business grant or loan schemes": 0.108,
+"Accredited finance agreements": 0.043,
+"We haven't received any that we applied for": 0.176
+},
+{
+"Industry": "All Industries",
+"Coronavirus Job Retention Scheme": 0.222,
+"Business rates holiday": 0.191,
+"Deferring VAT payments": 0.427,
+"HMRC Time To Pay scheme": 0.168,
+"Government-funded small business grant or loan schemes": 0.07,
+"Accredited finance agreements": 0.018,
+"We haven't received any that we applied for": 0.189
+}
+]
+
+# dataset14
+Percentage of businesses either continuing to trade or who have temporarily paused or ceased trading, broken down by size band, UK, 6 April to 19 April 2020
+
+[
+{
+"Workforce Size": "< 250",
+"Coronavirus Job Retention Scheme": 0.221,
+"Business rates holiday": 0.186,
+"Deferring VAT payments": 0.407,
+"HMRC Time To Pay scheme": 0.168,
+"Government-funded small business grant or loan schemes": 0.085,
+"Accredited finance agreements": 0.023,
+"We haven't received any that we applied for": 0.205
+},
+{
+"Workforce Size": "250 +",
+"Coronavirus Job Retention Scheme": 0.224,
+"Business rates holiday": 0.2,
+"Deferring VAT payments": 0.461,
+"HMRC Time To Pay scheme": 0.168,
+"Government-funded small business grant or loan schemes": 0.046,
+"Accredited finance agreements": 0.011,
+"We haven't received any that we applied for": 0.163
+},
+{
+"Workforce Size": "All Size Bands",
+"Coronavirus Job Retention Scheme": 0.222,
+"Business rates holiday": 0.191,
+"Deferring VAT payments": 0.427,
+"HMRC Time To Pay scheme": 0.168,
+"Government-funded small business grant or loan schemes": 0.07,
+"Accredited finance agreements": 0.018,
+"We haven't received any that we applied for": 0.189
+}
+]
+
+# dataset15
+Percentage of businesses either continuing to trade or who have temporarily paused or ceased trading, broken down by industry, UK, 6 April to 19 April 2020
+
+[
+{
+"Industry": "Manufacturing",
+"Coronavirus Job Retention Scheme": 0.383,
+"Business rates holiday": 0.081,
+"Deferring VAT payments": 0.167,
+"HMRC Time To Pay scheme": 0.092,
+"Government-funded small business grant or loan schemes": 0.028,
+"Accredited finance agreements": 0.066,
+"None of the above": 0.481
+},
+{
+"Industry": "Water Supply, Sewerage, Waste Management And Remediation Activities",
+"Coronavirus Job Retention Scheme": 0.386,
+"Business rates holiday": 0.071,
+"Deferring VAT payments": 0.229,
+"HMRC Time To Pay scheme": 0.143,
+"Government-funded small business grant or loan schemes": 0.029,
+"Accredited finance agreements": 0.071,
+"None of the above": 0.457
+},
+{
+"Industry": "Construction",
+"Coronavirus Job Retention Scheme": 0.429,
+"Business rates holiday": 0.032,
+"Deferring VAT payments": 0.174,
+"HMRC Time To Pay scheme": 0.096,
+"Government-funded small business grant or loan schemes": 0.05,
+"Accredited finance agreements": 0.11,
+"None of the above": 0.422
+},
+{
+"Industry": "Wholesale And Retail Trade; Repair Of Motor Vehicles And Motorcycles",
+"Coronavirus Job Retention Scheme": 0.321,
+"Business rates holiday": 0.093,
+"Deferring VAT payments": 0.158,
+"HMRC Time To Pay scheme": 0.076,
+"Government-funded small business grant or loan schemes": 0.042,
+"Accredited finance agreements": 0.083,
+"None of the above": 0.538
+},
+{
+"Industry": "Accommodation And Food Service Activities",
+"Coronavirus Job Retention Scheme": 0.404,
+"Business rates holiday": 0.18,
+"Deferring VAT payments": 0.235,
+"HMRC Time To Pay scheme": 0.137,
+"Government-funded small business grant or loan schemes": 0.061,
+"Accredited finance agreements": 0.122,
+"None of the above": 0.398
+},
+{
+"Industry": "Transportation And Storage",
+"Coronavirus Job Retention Scheme": 0.355,
+"Business rates holiday": 0.096,
+"Deferring VAT payments": 0.199,
+"HMRC Time To Pay scheme": 0.078,
+"Government-funded small business grant or loan schemes": 0.021,
+"Accredited finance agreements": 0.074,
+"None of the above": 0.489
+},
+{
+"Industry": "Information And Communication",
+"Coronavirus Job Retention Scheme": 0.26,
+"Business rates holiday": 0.07,
+"Deferring VAT payments": 0.163,
+"HMRC Time To Pay scheme": 0.067,
+"Government-funded small business grant or loan schemes": 0.029,
+"Accredited finance agreements": 0.05,
+"None of the above": 0.587
+},
+{
+"Industry": "Professional, Scientific And Technical Activities",
+"Coronavirus Job Retention Scheme": 0.35,
+"Business rates holiday": 0.073,
+"Deferring VAT payments": 0.228,
+"HMRC Time To Pay scheme": 0.083,
+"Government-funded small business grant or loan schemes": 0.023,
+"Accredited finance agreements": 0.074,
+"None of the above": 0.503
+},
+{
+"Industry": "Administrative And Support Service Activities",
+"Coronavirus Job Retention Scheme": 0.401,
+"Business rates holiday": 0.089,
+"Deferring VAT payments": 0.227,
+"HMRC Time To Pay scheme": 0.102,
+"Government-funded small business grant or loan schemes": 0.063,
+"Accredited finance agreements": 0.09,
+"None of the above": 0.45
+},
+{
+"Industry": "Education",
+"Coronavirus Job Retention Scheme": 0.459,
+"Business rates holiday": 0.098,
+"Deferring VAT payments": 0.174,
+"HMRC Time To Pay scheme": 0.022,
+"Government-funded small business grant or loan schemes": 0,
+"Accredited finance agreements": 0.066,
+"None of the above": 0.421
+},
+{
+"Industry": "Human Health And Social Work Activities",
+"Coronavirus Job Retention Scheme": 0.31,
+"Business rates holiday": 0.042,
+"Deferring VAT payments": 0.099,
+"HMRC Time To Pay scheme": 0.056,
+"Government-funded small business grant or loan schemes": 0.035,
+"Accredited finance agreements": 0.014,
+"None of the above": 0.585
+},
+{
+"Industry": "Arts, Entertainment And Recreation",
+"Coronavirus Job Retention Scheme": 0.41,
+"Business rates holiday": 0.122,
+"Deferring VAT payments": 0.212,
+"HMRC Time To Pay scheme": 0.104,
+"Government-funded small business grant or loan schemes": 0.058,
+"Accredited finance agreements": 0.108,
+"None of the above": 0.392
+},
+{
+"Industry": "All Industries",
+"Coronavirus Job Retention Scheme": 0.368,
+"Business rates holiday": 0.091,
+"Deferring VAT payments": 0.19,
+"HMRC Time To Pay scheme": 0.088,
+"Government-funded small business grant or loan schemes": 0.039,
+"Accredited finance agreements": 0.08,
+"None of the above": 0.482
+}
+]
+
+# dataset16
+Percentage of businesses either continuing to trade or who have temporarily paused or ceased trading, broken down by size band, UK, 6 April to 19 April 2020
+
+[
+{
+"Workforce Size": "< 250",
+"Coronavirus Job Retention Scheme": 0.367,
+"Business rates holiday": 0.089,
+"Deferring VAT payments": 0.202,
+"HMRC Time To Pay scheme": 0.094,
+"Government-funded small business grant or loan schemes": 0.046,
+"Accredited finance agreements": 0.085,
+"None of the above": 0.48
+},
+{
+"Workforce Size": "250 +",
+"Coronavirus Job Retention Scheme": 0.37,
+"Business rates holiday": 0.094,
+"Deferring VAT payments": 0.169,
+"HMRC Time To Pay scheme": 0.078,
+"Government-funded small business grant or loan schemes": 0.027,
+"Accredited finance agreements": 0.072,
+"None of the above": 0.486
+},
+{
+"Workforce Size": "All Size Bands",
+"Coronavirus Job Retention Scheme": 0.368,
+"Business rates holiday": 0.091,
+"Deferring VAT payments": 0.19,
+"HMRC Time To Pay scheme": 0.088,
+"Government-funded small business grant or loan schemes": 0.039,
+"Accredited finance agreements": 0.08,
+"None of the above": 0.482
+}
+]
